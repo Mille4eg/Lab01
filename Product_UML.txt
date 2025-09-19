@@ -1,0 +1,18 @@
++-------------------------------+
+|            Product            |
++-------------------------------+
+| - id : String                 |
+| - name : String               |
+| - description : String        |
+| - cost : double               |
++-------------------------------+
+| + Product(id:String,          |
+|           name:String,        |
+|           description:String, |
+|           cost:double)        |
+| + getID() : String            |
+| + getName() : String          |
+| + getDescription() : String   |
+| + getCost() : double          |
+| + toString() : String         |
++-------------------------------+

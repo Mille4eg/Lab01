@@ -1,0 +1,21 @@
++-------------------------------+
+|            Person             |
++-------------------------------+
+| - id : String                 |
+| - firstName : String          |
+| - lastName : String           |
+| - title : String              |
+| - yob : int                   |
++-------------------------------+
+| + Person(id:String,           |
+|          firstName:String,    |
+|          lastName:String,     |
+|          title:String,        |
+|          yob:int)             |
+| + getID() : String            |
+| + getFirstName() : String     |
+| + getLastName() : String      |
+| + getTitle() : String         |
+| + getYOB() : int              |
+| + toString() : String         |
++-------------------------------+
